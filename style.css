@@ -56,7 +56,6 @@
 
 body{
     font-family: 'Figtree', sans-serif;
-    /* Weights: 600, 800 */
     background: var(--clr-primary-100);
     display: flex;
     align-items: center;
@@ -67,19 +66,13 @@ body{
 main{
   max-width: 23.875rem;
   background: var(--clr-neutral-100);
-  border-radius: .5rem;
-  /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; */
+  border-radius: 1rem;
   padding: 1.5rem;
   box-shadow: 10px 10px 0px 0px var(--clr-neutral-300);
 }
 
 main img{
-  /* margin-top: 1rem; */
-  /* margin-inline: auto; */
-  border-radius: .5rem;
+  border-radius: 1rem;
 }
 
 .category{
@@ -164,5 +157,3 @@ h1 a:hover{
     margin-top: 1.5rem;
 }
 }
-
-/* 20 rem */
