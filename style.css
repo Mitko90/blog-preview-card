@@ -67,6 +67,7 @@ main{
   max-width: 23.875rem;
   background: var(--clr-neutral-100);
   border-radius: 1rem;
+  border: 1px solid black;
   padding: 1.5rem;
   box-shadow: 10px 10px 0px 0px var(--clr-neutral-300);
 }
