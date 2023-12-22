@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Blog Preview Card Main] (https://65858d31b2a7d7cb6b4e8cf6--gilded-stardust-ac0ea3.netlify.app/)
+- Live Site URL: [Blog Preview Card Main](https://6585914d8c16a8cfcfdf49b5--phenomenal-concha-3be59b.netlify.app/)
 
 ## My process
 
